@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and faithfull narrative (for substance) of a publique dispute between Mr. Tho. Porter, &amp; Mr. Hen. Haggar; concerning infant-Baptism. In the parish church of Ellesmer in the county of Salop, on the 30 of April, 1656. / By one who was present at, and a diligent observer of, the debate.</title>
+            <author>Porter, Thomas, d. 1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90872</idno>
+            <idno type="STC">Wing P2998F</idno>
+            <idno type="STC">Thomason E887_1</idno>
+            <idno type="STC">ESTC R207352</idno>
+            <idno type="EEBO-CITATION">99866409</idno>
+            <idno type="PROQUEST">99866409</idno>
+            <idno type="VID">118681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118681)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E887[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and faithfull narrative (for substance) of a publique dispute between Mr. Tho. Porter, &amp; Mr. Hen. Haggar; concerning infant-Baptism. In the parish church of Ellesmer in the county of Salop, on the 30 of April, 1656. / By one who was present at, and a diligent observer of, the debate.</title>
+                  <author>Porter, Thomas, d. 1667.</author>
+                  <author>Haggar, Henry.</author>
+               </titleStmt>
+               <extent>[6], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Clark, at the entrance into Mercers-Chappel, at the lower end of Cheapside.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>One who was present = Thomas Porter.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Porter, Thomas, d. 1667 --  Early works to 1800.</term>
+               <term>Haggar, Henry --  Early works to 1800.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-05</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118681:1" rendition="simple:additions"/>
+            <p>A True and Faithfull NARRATIVE (for ſubſtance) Of a Publique Diſpute BETWEEN Mr. <hi>Tho. Porter,</hi> &amp; Mr. <hi>Hen. Haggar;</hi> CONCERNING INFANT-BAPTISM. In the Pariſh Church of <hi>Elleſmer</hi> in the County of <hi>Salop,</hi> on the 30 of <hi>April,</hi> 1656.</p>
+            <p>By one who was preſent at, and a diligent obſerver of, the Debate.</p>
+            <q>
+               <bibl>
+                  <hi>ROM. 16.17, 18.</hi>
+               </bibl>
+               <p>Now I beſeech you, brethren, marke them which cauſe diviſions and offences, contrary to the doctrine which ye have learned, and avoid them.</p>
+               <p>For they that are ſuch, ſerve not our Lord Jeſus Chriſt, but their own belly, and <hi>By good words and fair ſpeeches</hi> deceive the hearts of the ſimple.</p>
+            </q>
+            <q>
+               <p>Nemo eſt qui non videat Paedobaptiſmum nequaquam <hi>humanitus</hi> fabre<g ref="char:EOLhyphen"/>factum fuiſſe, qui <hi>Tanta Scripturae approbatione</hi> fulciatur. Nec ſatis ſpecioſe nugantur, qui objiciunt, nuſquam reperiri, vel unum Infantem per Apoſtolorum manus fuiſſe baptizatum. Etſi enim id <hi>Nominatim</hi> ab Evangeliſtis non narratur, quia tamen ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> rurſum excludantur i<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>i, quoties familiae alicujus baptizatae incidit mentio; quis inde, <hi>niſi Inſanus,</hi> ra<g ref="char:EOLhyphen"/>ticcinetur non fuiſſe baptizatos?—</p>
+               <p>Quod autem apud ſimplicem vulgum diſſeminant, longam annorum ſeriem poſt Chriſti Reſurrectionem praeteriiſſe, quibus incognitus erat Paedobaptiſ<g ref="char:EOLhyphen"/>mus: <hi>In co foediſſime mentiuntur,</hi> ſiquidem nullus ſcriptor tam vetuſtus qui non ejus Originem ad Apoſtolorum ſeculum <hi>Pro certo</hi> referat.</p> 
+               <bibl>
+                  <hi>Calv. Inſtit. Lib. 4. Cap. 16. Sect. 8.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Clark,</hi> at the Entrance into <hi>Mercers-Chappel,</hi> at the lower end of <hi>Cheapſide.</hi> 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118681:2"/>
+            <pb facs="tcp:118681:2"/>
+            <head>An Advertiſement to the Readers.</head>
+            <opener>
+               <salute>READERS,</salute>
+            </opener>
+            <p>WHether friends or foes, ſtaggering or ſet<g ref="char:EOLhyphen"/>led, I though it not only expedient, but needfull (having had perfect underſtand<g ref="char:EOLhyphen"/>ing of all things (concerning the debate) from the firſt) to acquaint you with the occaſion of this Con<g ref="char:EOLhyphen"/>teſt, and the rather that ſome things here may be hinted, which could not be ſo conveniently ſet down in the body of the Narrative.</p>
+            <p>Mr. <hi>Porter</hi> being called to Preach the Goſpel in <hi>Elleſmer,</hi> on <hi>Feb.</hi> 13. 1655. did in his Sermon take occaſion (as he thought he was bound) to vindicate himſelf (with a ſpirit of meekneſſe) from ſome aſper<g ref="char:EOLhyphen"/>perſions which (ſome of the rebaptized judgement (that was his phraſe) had caſt upon him. Where<g ref="char:EOLhyphen"/>upon ſome beſt known for diſtinction by the name of Anabaptiſts) did write a Letter to him, deſiring him to come the next monthly Lecture to make good what he had delivered, and that then and there, there ſhould be ſome (God willing) to diſpute with him a<g ref="char:EOLhyphen"/>bout Infant-Baptiſm. Mr. <hi>Porter</hi> came the day ap<g ref="char:EOLhyphen"/>pointed, <note place="margin">Nath. Gillow, Jo. Capper, Jo. Edwards, Ma. Edw.</note> and proved four of the Anabaptiſts in <hi>Elleſ<g ref="char:EOLhyphen"/>me,</hi> arrant LYARS (though I cannot learn that they have taken ſhame to themſelves for their ſin of <hi>Lying,</hi> nor given any ſatisfaction to Mr. <hi>Porter.</hi> As if Lying were a natural ingredient into Anabaptiſm
+<pb facs="tcp:118681:3"/>(as <hi>Bullinger</hi> in anſwer to an Objector ſaid) nor can you ſhew me ONE MAN of them, who is not blemi<g ref="char:EOLhyphen"/>ſhed with ſome of the foreſaid wickedneſſes, I mean <hi>Lying, Sedition, Idleneſſe,</hi> &amp;c.) At which time alſo, it was agreed, that on the laſt of <hi>April</hi> a Publique Diſpute ſhould be held, in the Pariſh Church of <hi>Elleſmer</hi> aforeſaid, about Infant-Baptiſm. (<hi>N. G.</hi> and <hi>J. C.</hi> ſtating the queſtion thus, <hi>All Infant-Baptiſm is unlawfull</hi>) and that either <hi>Hen. Haggar,</hi> or <hi>James Brown,</hi> or <hi>Richard Newton,</hi> ſhould enter the liſts with Mr. <hi>Porter,</hi> and that each ſide was left at liberty to bring a Moderator with them. The day being come, Mr. <hi>Tallants</hi> was deſired to be Moderator for Mr. <hi>Porter;</hi> and Mr. <hi>Brown</hi> was de<g ref="char:EOLhyphen"/>ſigned to be Moderator for Mr. <hi>Haggar.</hi> Not long af<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the diſpute was begun, Mr. <hi>Haggar</hi> and Mr. <hi>Brown,</hi> cryed hard for Scripture, expreſſe Scri<g ref="char:EOLhyphen"/>pture to prove the lawfulneſſe of Infant-Baptiſm. Mr. <hi>Porter</hi> anſwered, That if he muſt fight with them, they muſt give him leave to chooſe his weapons, pro<g ref="char:EOLhyphen"/>v<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded he brings them out of Gods Armory. Be<g ref="char:EOLhyphen"/>ſide, he ſaid his adverſaries were unreaſonable to preſs him to that task which he never undertook. Mr. <hi>Brown</hi> ſaid, he had Mr. <hi>Porters</hi> Letter to ſhew for it, Mr. <hi>Brown</hi> was deſired to produce and read the Letter (if he had any to ſuch import) in the preſence and audience of that great Congregation, but none was read. Then Mr. <hi>Porter</hi> ſaid, he would make a ſhort cut of the Debate, offering to Mr. <hi>Haggar</hi> that if he would produce one expreſſe Stripture to prove In<g ref="char:EOLhyphen"/>fant-Baptiſm unlawful, for his part he would lay down the Waſters. Mr. <hi>Haggar</hi> ſaid, He came not on that account (diſliking and diſowning the ſtating
+<pb facs="tcp:118681:3"/>of the queſtion by his brethren) but to make good the Baptizing of believers by clear Scriptures. Then M. <hi>Porter</hi> alſo offered, that if they would produce one expreſs Scripture (in their ſenſe) to prove the lawful<g ref="char:EOLhyphen"/>neſſe of Baptizing actual believers, or viſible Saints, he for his part would lay down the waſters. Mr. <hi>Hag<g ref="char:EOLhyphen"/>gar</hi> ſaid, He came to hear what could be ſaid out of Scripture in juſtification of Infant-Baptiſm. So that though the Adverſaries kept a great bawling for <hi>Expreſs Scripture</hi> (as to Infant-Baptiſm) yet they could not prove their own way of Baptizing by any one expreſs Scripture. And is it not meet the ſame law ſhould be taken and given? It was obſer<g ref="char:EOLhyphen"/>ved, that Mr. <hi>Brown</hi> for very indignation did gnaſh with his teeth, as if he would have bitten; and did knit his fiſt together, as if he would have beaten Mr. <hi>Porter</hi> therewith: (ſo mighty was Truth and ope<g ref="char:EOLhyphen"/>rative) and it was very remarkable, that when Mr. <hi>Porter</hi> propounded any argument, Mr. <hi>Haggar</hi> could not be prevailed with (though often preſſed thereto) to anſwer directly and briefly, but uſed Circumlocu<g ref="char:EOLhyphen"/>ti<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns to inveigle the people, (a piece of his cunning craftineſs, whereby he lies in wait to deceive, as the Apoſtle ſpeaks, <hi>Epheſ.</hi> 4. 14.) But Mr. <hi>Porter</hi> told him, that he hoped old birds would not be caught with chaffe. Toward the cloſe of the Diſpute, an ancient profeſſor <note n="*" place="margin">R. L.</note> deſired to ſpeak a few words, <hi>v<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z.</hi> Mr. <hi>Haggar</hi> had Preached in that place (poin<g ref="char:EOLhyphen"/>ting to the Pulpit) about two years agoe, that Infant<g ref="char:EOLhyphen"/>Baptiſm was Antichriſtian, and that he with others came to hear a confirmation of that Doctrine by Scripture, and (though Mr. <hi>Haggar</hi> was deſired, yet) not one Scripture was alledged. To which Mr. <hi>Hag<g ref="char:EOLhyphen"/>gar</hi>
+               <pb facs="tcp:118681:4"/>replyed, that perhaps he might then deliver that Infant-Baptiſm was not true Baptiſm, or that the Baptiſm of Chriſt was not to be found in the Church of <hi>England.</hi> To which Mr. <hi>Porter</hi> replyed, It's blaſphemy, being ready to make it out; and added withall, that he, to his beſt obſervation, could not find in the New Teſtament any of years Baptized, but either they were Jewes or Heathens: and if Mr. <hi>Haggar</hi> and his diſciples, would acknowledg themſelves to be ſuch, much good do it them with their new way of Baptizing. Then Mr. <hi>Haggar</hi> read out of the Bible, <hi>Deut. 28.18, 19, 20.</hi> in the audi<g ref="char:EOLhyphen"/>ence of the people, and Mr. <hi>Porter</hi> read <hi>Iſaiah 65.23.</hi> After which Mr. <hi>Tallant</hi> ſweetly concluded with Prayer, and ſo the Congregation was diſmiſſed.</p>
+            <epigraph>
+               <q>
+                  <bibl>Judg. 19.30.</bibl> 
+                  <hi>Conſider of it, take advice and ſpeak you minds.</hi>
+               </q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:118681:4"/>
+            <head>A True and Faithful NARRATIVE (for ſubſtance) Of a Publique Diſpute BETWEEN Mr. <hi>Tho. Porter,</hi> &amp; Mr. <hi>Hen. Haggar,</hi> CONCERNING <hi>INFANT-BAPTISM.</hi>
+            </head>
+            <p>THere was a great Congregation (conſiſting of many hundreds, yea of ſome thouſands) aſſembled to<g ref="char:EOLhyphen"/>gether in the Pariſh Church of <hi>Elleſmer.</hi> After filence had been deſired, and ſome things premiſed and aſ<g ref="char:EOLhyphen"/>ſented unto, for the better carrying on of the debate; Mr. <hi>Porter</hi> made a propoſall, that (it being acknowledged to be the work of the Lord) Prayer might be made to the Lord, for his direction, aſſiſtance, and bleſſing in ſo great an undertaking. Mr. <hi>Haggar</hi> declared his judgment, that he could not joyn in Prayer (as things ſtood) much leſſe be the mouth of Prayer in that juncture of time; nay, he conceived it needleſſe, for the buſineſſe had been commen<g ref="char:EOLhyphen"/>ded to the Lord in Prayer, before himſelf and his party came into that place. But if (ſaith he) you be pleaſed to pray, we will not interrupt you in prayer. Mr. <hi>Porter</hi> re<g ref="char:EOLhyphen"/>plyed, that, Sir, there lies a ſcruple on my ſpirit, whether it be fit for me to maintain a Diſputation with you, who
+<pb n="2" facs="tcp:118681:5"/>do refuſe to joyn in ſupplication with me, who have (without vanity be it ſpoken) ſought the Lord in ſecret alſo as well as you; and I muſt tell you beſide, many are ſeeking the Lord in my behalf this day, whoſe prayers (I truſt) will be prevalent. Notwithſtanding, becauſe I judge it fit and needfull to begin with Prayer, and you have pro<g ref="char:EOLhyphen"/>miſed not to interrupt, the reverend and godly moderater Mr. <hi>Tallants</hi> is deſired to begin the action with Prayer. Mr. <hi>Tallants</hi> declared, that he held it fit and meet to put up a few petitions to the Lord: which being done accor<g ref="char:EOLhyphen"/>dingly by him, Mr. <hi>Porter</hi> expreſſed himſelf in theſe or the like words following.</p>
+            <p>Mr. <hi>Port.</hi> What I have to ſay concerning Infant-Baptiſm, may be reduced to three heads. <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. The Precept of Chriſt.</item>
+               <item>2. The Practiſe of the Apoſtles.</item>
+               <item>3. The priviledges indulged to Infants of believing Parents. And I hope a threefold cord is not eaſily broken.</item>
+            </list>
+            <p>For the Precept of Chriſt.</p>
+            <p>See Matth. 28.19, 20. I ſhall crave leave briefly to give the ſenſe of theſe words, (as I humbly conceive) that the ſtrength of my argument, (grounded on this Scripture) may be the better diſcerned. Our Lord Chriſt having re<g ref="char:EOLhyphen"/>ceived a plenipotencie from the Father, <hi>verſ. 18. All power is given to me;</hi> doth here give to his Apoſtles a Com<g ref="char:EOLhyphen"/>miſſion, or rather an enlargement of their Commiſſion, <hi>viz. Teach all nations,</hi> — The word ought to be rendred <hi>Diſciple,</hi> elſe there might ſeem to be a Tautologie in chriſts expreſſion (be it ſpoken with reverence) <hi>teach—teaching, ve. 20.</hi> And pious and learned <hi>Cameron</hi> hints, it may be ren<g ref="char:EOLhyphen"/>dred <hi>to Proſelyte,</hi> which is all one to <hi>Diſciple.</hi> — Now we know, when a Maſter of a family became a Proſelyte of the Jewiſh Church, his whole Family were made Proſe<g ref="char:EOLhyphen"/>lytes too. Now who are to be diſcipled? all Nations, in diſtinction from, and oppoſition to the Jewiſh Na<g ref="char:EOLhyphen"/>tion. For the Apoſtles were confined before within the pale of <hi>Judea;</hi> now their Commiſſion is enlarged, <hi>To
+<pb n="3" facs="tcp:118681:5"/>Diſciple all Nations;</hi> which univerſall expreſſion (with<g ref="char:EOLhyphen"/>out doubt) comprehends Infants, a conſiderable part of any Nation (as the children of the <hi>Ninivites</hi> were of the City of <hi>Ninive,</hi> 
+               <note place="margin">Foundat. of the Fort diſco<g ref="char:EOLhyphen"/>vered. pag. 61.</note> Jon. 4.11.) and Mr. <hi>Haggar</hi> himſelf doth include them in that little large word <hi>All,</hi> Rom. 5.18. <hi>By the righteouſneſſe of one, the free gift came upon all men to juſtification of life.</hi> Now, if Mr. <hi>Hag<g ref="char:EOLhyphen"/>gar</hi> were not partiall, he might include Infants here in <hi>Matthew,</hi> as well as there in the <hi>Romans.</hi> And ſure<g ref="char:EOLhyphen"/>ly if our Saviours intent had been to have excluded Infants, he would have made an exception, which had been ſeaſonable and needfull in this Commiſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>Mr. <hi>Haggar.</hi> It's ſaid by Mr. <hi>Porter,</hi> that the word <hi>Teach,</hi> muſt be rendred <hi>Diſciple all nations,</hi> elſe Chriſt muſt be accuſed of Tautologie. No ſuch matter, for the words hold forth, <hi>a teaching before Baptiſm,</hi> and <hi>a teaching after Baptiſm;</hi> before Baptiſm; and a teaching after Baptiſm, to build them up in the faith, as appears by the practiſe of the Apoſtles, <hi>Act 2.41.</hi> to the end of the Chapter, and <hi>Act. 8.5, 12.</hi>
+            </p>
+            <p>Mr. <hi>Porter.</hi> Did I ſay, elſe Chriſt muſt be accuſed of Tautologie? no, elſe there might ſeem to be a Tau<g ref="char:EOLhyphen"/>tologie in Chriſts expreſſion, being ſpoken with reve<g ref="char:EOLhyphen"/>rence, (though <hi>Spanhemius</hi> 
+               <note n="*" place="margin">
+                  <hi>Si <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> ſimplici<g ref="char:EOLhyphen"/>ter tantum ſig<g ref="char:EOLhyphen"/>nificaret docere, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> re<g ref="char:EOLhyphen"/>periretur in Chriſti verbis.</hi> Spanh. Dub. Evang. part. 3. Dub. 27.</note> is bold to ſay, if the word ſignifies ſimply to <hi>Teach,</hi> a Tautologie would be found in Chriſts words) Surely I muſt expect to be miſrepre<g ref="char:EOLhyphen"/>ſented behind my back, ſince you doe miſrepre<g ref="char:EOLhyphen"/>ſent me before my face, and that in the audience of ſo great a Congregation, to whom I ap<g ref="char:EOLhyphen"/>peale.</p>
+            <p n="2">2. There is no expreſſe mention made of <hi>Teach<g ref="char:EOLhyphen"/>ing</hi> in either of thoſe places of the <hi>Acts</hi> fore<g ref="char:EOLhyphen"/>quoted.</p>
+            <p n="3">3. If there were, yet the inſtances are not alike, if <hi>Matthew</hi> and the <hi>Acts</hi> be compared. For here in <hi>Mat.</hi> 28. is a great act injoyned, <hi>Teach,</hi> or rather <hi>Diſciple</hi> —
+<pb n="4" facs="tcp:118681:6"/>Secondly, the manner how it is to be performed, by Baptizing and by Teaching. Indeed, if the words had run thus, <hi>Teach and baptize — and teach,</hi> there had been ſome colour for your exception. But the word <hi>Teach</hi> or <hi>Diſciple</hi>
+               <note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> is in the Imperative mood, and the other two are <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Participles.</p>
+            <p n="4">4. Theſe words in <hi>Matthew</hi> do not neceſſarily prove that <hi>teaching</hi> muſt precede <hi>baptizing,</hi> but rather the con<g ref="char:EOLhyphen"/>trary, <hi>baptizing</hi> before <hi>teaching.</hi> For <hi>baptizing</hi> is ſet down before <hi>teaching,</hi> in <hi>verſ.</hi> 19. and <hi>teaching,</hi> in <hi>verſ.</hi> 20. Though we muſt diſtinguiſh between a Church to be conſtituted, and a Church already conſtituted. <hi>Abraham</hi> muſt be taught before he be circumciſed; but his children of eight dayes old, muſt be circumciſed firſt, then taught. Thus when a Proſelyte of the Gentiles imbraced the Jewiſh religion, profeſſion preceded circumciſion, but it was not ſo with his children. Thus now where the Goſpell is firſt preached to Jews or Gentiles, when the Parents gave their names to Chriſt, for themſelves and for their family, the whole houſhold is diſcipled <note n="†" place="margin">Luk. 19.9.</note>. So I come to the firſt Argument, grounded on this Scripture.</p>
+            <l>The Diſciples of Chriſt may be baptized;</l>
+            <l>Some Infants are the Diſciples of Chriſt; therefore</l>
+            <l>Some Infants may be baptized.</l>
+            <p>Mr. <hi>Haggar</hi> (as it ſeems his manner is) made a large Oration to the people, but nothing in anſwer to the Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p>Mr. <hi>Porter.</hi> I pray you Sir give me an anſwer to my Argument, by denying or diſtinguiſhing. So farre as I can collect from your rambling diſcourſe (which for the future I deſire you to forbear, and to ſpeak leſſe or more to purpoſe) I conceive that you ſeem to deny the Minor, which I prove out of <hi>Act. 21.4, 5.</hi>
+            </p>
+            <p>
+               <note place="margin">At which the people laugh<g ref="char:EOLhyphen"/>ed.</note> Mr. <hi>Browne.</hi> But you cannot prove Infants diſciples in Scripture.</p>
+            <p>Mr. <hi>Porter.</hi> If I prove their Diſcipleſhip out of Scri<g ref="char:EOLhyphen"/>pture,
+<pb n="5" facs="tcp:118681:6"/>ſurely it's found in or by Scripture, as <hi>Act. 27.2, 11. Paul reaſoned out of the Scriptures.</hi>
+            </p>
+            <p>Mr. <hi>Browne.</hi> Shew me where it is written in Scripture, that Infants are to be baptized, if it were written there, I could read it there.</p>
+            <p>Mr. <hi>Porter.</hi> And ſo you may read it there, if you were not blind; and who ſo blind as he who will not ſee? But I ſhall ſtop your mouth preſently, <note place="margin">Redemption freed from reſtraint.</note> you have publi<g ref="char:EOLhyphen"/>ſhed in your book, that the ſprinkling of Infants is an Antichriſtian idoll; where is this Sir written in Scri<g ref="char:EOLhyphen"/>pture.</p>
+            <p>Mr. <hi>Browne.</hi> What is this to the Baptizing or diſci<g ref="char:EOLhyphen"/>pling of Infants, <hi>&amp;c?</hi>
+            </p>
+            <p>Mr. <hi>Tallants.</hi> It is written in Scripture, Diſciples are to be Baptized; it is written in Scripture, Infants are Diſciples; therefore, it is written in Scripture, Infants are to be baptized. I pray you Mr. <hi>Porter</hi> prove them Diſciples.</p>
+            <p>Mr. <hi>Porter.</hi> I was about it (but was interrupted by Mr. <hi>Haggar</hi> and Mr. <hi>Browne,</hi> who are like a Lapwing that makes the greateſt noiſe when furtheſt from the neſt) and produced <hi>Act.</hi> 21.4, 5. From whence I thus argue: They who did accompany <hi>Paul</hi> in his journey were Diſci<g ref="char:EOLhyphen"/>ples; But ſome Infants did accompany <hi>Paul</hi> in his journey; Therefore ſome Infants are Diſciples.</p>
+            <p>Mr. <hi>Haggar.</hi> (Having read the place quoted) I find that the Diſciples with their wives and children brought <hi>Paul</hi> onwards on his way, but not that the children are called Diſciples.</p>
+            <p>Mr. <hi>Brown.</hi> There was no mention made of Infants in thoſe words, how then do they hold forth Infant-Baptiſm?</p>
+            <p>Mr. <hi>Porter.</hi> I have ſhewed ſome Infants are to be Baptized, becauſe they are Diſciples; I am now upon proving that Infants are diſciples. And what though In<g ref="char:EOLhyphen"/>fants are not here expreſſely mentioned, they are not to be excluded; nay, Children are here mentioned, Infants are Children, therefore Infants — And I confirme it by
+<pb n="6" facs="tcp:118681:7"/>a parallel phraſe, <hi>Phil. 1.1. To the Saints at Philippi, with the Biſhops and Deacons;</hi> ſo here, Diſciples with Wives and Chil<g ref="char:EOLhyphen"/>dren. Now if Biſhops and Deacons muſt not be ſhut out from being Saints (in the <hi>Philippians</hi>) then neither Wives nor Children from being Diſciples (in the <hi>Acts.</hi>) Scripture you ſee muſt expound Scripture.<note place="margin">See alſo 2 Chro. 20.13. Gal. 5.24.</note>
+            </p>
+            <p>Mr. <hi>Haggar.</hi> We know Deacons were Saints before they were Deacons, <hi>Act. 6.3.</hi>
+            </p>
+            <p>Mr. <hi>Tall.</hi> What is this to the purpoſe? Proceed Mr. <hi>Porter.</hi>
+            </p>
+            <p>Mr. <hi>Porter.</hi> I further prove them (<hi>viz.</hi> ſome Infants) Diſciples, by <hi>Act. 15.10. Why tempt ye God, to put a yoke on the neck of the diſciples,</hi> &amp;c. They on whom the falſe teachers would have laid the yoke of circumciſion were Diſciples; but the falſe teachers would have laid the yoke of circumciſion on Infants (as well as grown men.) Therefore Infants (as well as grown men) were Diſciples.</p>
+            <p>Mr. <hi>Haggar.</hi> Prove that they would have laid this yoke on Infants.</p>
+            <p>Mr. <hi>Porter.</hi> They who would have had the Diſciples cir<g ref="char:EOLhyphen"/>cumciſed after the manner of <hi>Moſes,</hi> would have laid this yoke on Infants, as well as grown men; But the falſe teachers would have had the Diſciples circumciſed after the manner of <hi>Moſes</hi> 
+               <note n="*" place="margin">See Exod. 1.5.24. Here the peo<g ref="char:EOLhyphen"/>ple hiſt and laughed at him, and ſtam<g ref="char:EOLhyphen"/>ped with their feet for indig<g ref="char:EOLhyphen"/>nation.</note> Therefore —</p>
+            <p>Mr. <hi>Haggar.</hi> We deny the <hi>Concluſion.</hi> We come not to anſwer Arguments, but to hear Scripture for Infant-Bap<g ref="char:EOLhyphen"/>tiſme. And there is no duty to be practiſed, but it is in as plain terms in Scripture as this, <hi>He that believeth ſhall be ſaved.</hi>
+            </p>
+            <p>Mr. <hi>Browne.</hi> Why do you, Mr. <hi>Porter,</hi> ſuffer thoſe yong men (that ſtand by you) to carry themſelves ſo uncivilly? Nay, I ſaw your ſelf ſmiling.</p>
+            <p>Mr. <hi>Porter.</hi> Who theſe yong men are I know not, they came not with me, they are ſtrangers to me, I have no command of their geſture. I could deſire you and Mr. <hi>Haggar</hi> to carry your ſelves ſo gravely and ſoberly, that no occaſion may be given of hiſſing and laughing at you. I know none but women and Mr. <hi>Haggar</hi> who will denie the Concluſion. And for my ſelf, it's true, I ſmiled, but it was at you and your brothers folly. And whereas Mr. <hi>Haggar</hi> you imply you muſt have ex<g ref="char:EOLhyphen"/>preſſe
+<pb n="7" facs="tcp:118681:7"/>Scripture for every duty to be practiſed, you pray before and after your Sermons, do you not? and where have you expreſs Scripture for that practiſe? and an hun<g ref="char:EOLhyphen"/>dred more? As 1. Prayer in family twice a day. 2. Wor<g ref="char:EOLhyphen"/>ſhipping of the holy Ghoſt. 3. Truſting in Chriſts ſa<g ref="char:EOLhyphen"/>tisfaction and merits. 4. Womens receiving the Lords Supper. 5. Receiving it with reverence, repentance, re<g ref="char:EOLhyphen"/>joycing, <hi>&amp;c.</hi> 6. Uſing the Lords titles and properties, with reverence, faith, knowledge, <hi>&amp;c.</hi>
+            </p>
+            <p>Mr. <hi>Haggar.</hi> Pray continually, 1 Theſſ. 5.17.</p>
+            <p>Mr. <hi>Porter.</hi> There is no expreſſe mention made of prayer before and after Sermon in that Scripture. So that you ſee you muſt and do prove it by conſequence (elſe you muſt fling up this, and a great part of your Reli<g ref="char:EOLhyphen"/>gion, both for things to be believed and practiſed) marke that (good people) whether this be expreſſe Scripture for prayer before and after Sermon. And were you not partiall in your ſelf, you cannot but be convinced, that Infant-Baptiſm is comprehended in <hi>Matth.</hi> 28.19. as well as prayer before and after Sermon, in 1 <hi>Theſſ.</hi> 5 17.</p>
+            <p>Mr. <hi>Tallants.</hi> Two hours have been ſpent in Canva<g ref="char:EOLhyphen"/>ſing the firſt Argument. You have heard (beloved) what hath been ſaid concerning the Baptizing, of Infants, on Scripture grounds of their Diſcipleſhip; and what hath been alleadged in anſwer thereto. Both Arguments and An<g ref="char:EOLhyphen"/>ſwers muſt be left to the judgement of this great Congre<g ref="char:EOLhyphen"/>gation. I pray you, Mr. <hi>Porter,</hi> proceed to another head.</p>
+            <p n="2">2. For Practiſe and Example.</p>
+            <p>
+               <note place="margin">1. Example.</note> Mr. <hi>Porter.</hi> I begin with 1 <hi>Cor. 10.2. And were all Bap<g ref="char:EOLhyphen"/>tized unto</hi> (or <hi>into) Moſes in the cloud, and in the ſea.</hi> If ſome mens expoſition may be admitted, the words hold out a clear inſtance of Infant-Baptiſm, <note place="margin">Dan. Heinſius.</note>
+               <hi>viz.</hi> They were all from the leaſt even to the greateſt (even to <hi>Moſes</hi> himſelf) baptized in the cloud and in the ſea.</p>
+            <p>Mr. <hi>Haggar.</hi> All here ſpoken of were believers.</p>
+            <p>Mr. <hi>Porter.</hi> That is a paradox, and contrary to expreſs Scripture, for ſome were unbelievers; <hi>Heb. 3.18, 19. And to whom ſware he that they ſhould not enter into his reſt, but to them that Believed not? So we ſee that they could not enter in, becauſe of
+<pb n="8" facs="tcp:118681:8"/>belief.</hi> Beſides, it's expreſſely ſaid in this Chapter, 1 <hi>Cor. 10.5. With many of them God was not well pleaſed. And they are called Idolaters,</hi> v. 7. <hi>Fornicators,</hi> v. 8. <hi>Tempters of Chriſt,</hi> v. 9. <hi>Murmurers,</hi> v. 10. <hi>All whoſe carcaſes fell in the wilderneſſe for unbelief, Heb. 3.17.</hi>
+            </p>
+            <p>Mr. <hi>Haggar.</hi> No Infants were baptized into <hi>Moſes,</hi> but ſuch as are expreſſely called our Fathers, <hi>verſ 1. All our Fathers were under the cloud;</hi> therefore not Infants.</p>
+            <p>Mr. <hi>Porter.</hi> They who came out of <hi>Egypt,</hi> and paſſed through the ſea, were baptized into <hi>Moſes;</hi> But Infants, as well as grown men, came out of <hi>Egypt</hi> and paſſed through the ſea; Therefore Infants, <hi>&amp;c.</hi> Exod. 10.9. <hi>And Moſes ſaid, We will go with our young, and with our old, with our ſons, and with our daughters,</hi> &amp;c. and <hi>verſ. 24. Let your little ones alſo go with you.</hi> Exod. 12.37. <hi>And the children of Iſrael journied from Rameſes to Succoth, about ſix hundred thouſand on foot that were men, beſides children.</hi> Beſides, (Mr. <hi>Haggar</hi>) have you not children?</p>
+            <p>Mr. <hi>Haggar.</hi> Yes Sir.</p>
+            <p>Mr. <hi>Porter.</hi> Though you are a Father as to them, yet you your ſelf were a child once as to your Parents. So the Apoſtle cals theſe fathers, as to the Jewiſh generation in <hi>Pauls</hi> time, when yet ſome of them were children as to their Parents, at the time of baptizing here ſpoken of. Now if all the Jewiſh children that came out of <hi>Egypt,</hi> and paſſed through the ſea, were baptized into <hi>Moſes,</hi> then Chriſtian children may be baptized into Chriſt now: But the Antecedent is true, therefore the conſequent alſo.</p>
+            <p>Mr. <hi>Browne.</hi> If all that went through the Red ſea were baptized, then their Cattell and Goods were bapti<g ref="char:EOLhyphen"/>zed. (Which moved laughter among the people)</p>
+            <p>Mr. <hi>Porter.</hi> An abſurd expreſſion. The Apoſtle ſpeaks of perſons, you of things.</p>
+            <p>Mr. <hi>Haggar.</hi> Though <hi>Moſes</hi> was a type of Chriſt, and though it were admitted that Infants were baptized into him, yet it doth not follow that Infants in the time of the Goſpell muſt be baptized.</p>
+            <p>Mr. <hi>Porter.</hi> If Infants in the time of the Goſpell be as
+<pb n="9" facs="tcp:118681:8"/>capable of being baptized by water into Chriſt, as thoſe Jewiſh Infants were capable of being baptized into <hi>Moſes</hi> in the cloud and in the ſea, then it follows. But Infants are as capable of being baptized into Chriſt now, as they were into <hi>Moſes;</hi> and ſhew me (if you can) any materiall dif<g ref="char:EOLhyphen"/>ference.</p>
+            <p>
+               <note place="margin">2. Example.</note> Mr. <hi>Porter. Act. 16.15. She</hi> (i.e. <hi>Lydia) was baptized and her houſhold.</hi> Whence I argue thus, If <hi>Lydia</hi> and her houſhold were baptized, <note place="margin">Gen. 45.18, 19. Num. 3.15.</note> then ſome Infants were baptized (for in Scrirture language houſe or houſhold are put for children) But <hi>Lydia</hi> and her houſhold were baptized, therefore ſome Infants —</p>
+            <p>Mr. <hi>Haggar.</hi> I finde nothing here of children being baptized.</p>
+            <p>Mr. <hi>Porter.</hi> Either <hi>Lydias</hi> husband, or <hi>Lydias</hi> ſervants, or <hi>Lydias</hi> Infants were baptized; but neither <hi>Lydias</hi> husband nor ſervants, therefore her Infants —</p>
+            <p>Mr. <hi>Haggar. Lydias</hi> ſervants were baptized, who are called the brethren in <hi>Lydias</hi> houſe, whom <hi>Paul</hi> com<g ref="char:EOLhyphen"/>forted, <hi>verſ.</hi> 40. now children were not capable of be<g ref="char:EOLhyphen"/>ing comforted.</p>
+            <p>Mr. <hi>Porter.</hi> 1. There is no expreſſe mention made of opening the heart of any but of <hi>Lydia,</hi> and yet her houſhold was baptized.</p>
+            <p n="2">2. You ſay in your book <note n="*" place="margin">Foundat pag. 6.</note>, If ſhe had an husband he was baptized, for ſhe and her houſhold was baptized. May I not as well ſay, If ſhe had children, they were baptized, for ſhe and her houſhold were baptized? were you not partiall in your ſelf?</p>
+            <p n="3">3. In anſwer to <hi>verſ.</hi> 40. The word houſe is not in the Originall <note n="†" place="margin">Beza.</note>, but that he went unto <hi>Lydia,</hi> who might be in ſome other houſe, for ought appears out of the Text. And thoſe brethren, whoſoever, or whereſoever they were, might be comforted, and yet her children be baptized. Children are capable of Baptiſm, though not of conſolation.</p>
+            <pb n="10" facs="tcp:118681:9"/>
+            <p>
+               <note place="margin">3. <hi>Example.</hi>
+               </note> Mr. <hi>Porter. Act.</hi> 16.33. The Jaylor was Baptized, <hi>he and all his ſtraitghtway.</hi> Whence I argue thus, If the Jaylor and <hi>all his</hi> were baptized, then ſome Infants were bapti<g ref="char:EOLhyphen"/>zed; but the former is true, therefore the latter.</p>
+            <p>Mr. <hi>Haggar.</hi> By <hi>all his</hi> are to be underſtood his ſer<g ref="char:EOLhyphen"/>vants, not his children, becauſe it's ſaid, <hi>verſ. 32. The word was ſpoken to all that were in his houſe;</hi> and <hi>verſ. 34. He rejoyced, believing in God with all his houſe.</hi>
+            </p>
+            <p>Mr. <hi>Porter.</hi> Servants are no more expreſſely mentioned then children; and if you include Servants, how can you exclude Infants?</p>
+            <p n="2">2. Theſe <hi>all his,</hi> cannot be the ſame with thoſe <hi>verſ.</hi> 32. for the word <hi>his,</hi> ſignifies <hi>of him,</hi> his naturall off-ſpring, begotten of him; and who are more properly his then children? And therefore the holy Ghoſt of purpoſe changeth the phraſe, <hi>All in his houſe, verſ.</hi> 32. <hi>All his, verſ.</hi> 33. Whereas if he had meant the ſame, he would have ſet down the ſame phraſe, <hi>He and all that were in his houſe were baptized;</hi> but in ſtead of that, to ſhew a difference, he ſaith here, <hi>He and all his,</hi>
+               <note n="*" place="margin">See the like phraſe in Rom. 8.9. 2 Tim. 2.19.</note> to diſtinguiſh between the Apoſtles preaching and baptizing.</p>
+            <p n="3">3. Nor the ſame with <hi>All his houſe, verſ. 34.</hi> For though (I deny not but) the Jaylor believed in God according to <hi>verſ. 31.</hi> yet the words might and are to be read thus; After he had believed God, he rejoyced all his houſe over, he daunced (as it were a Galliard, as the word ſignifies) and leaped for joy in every room of his houſe.</p>
+            <p>Mr. <hi>Haggar.</hi> I confeſſe my ignorance in the Greek <note n="†" place="margin">Then Mr. <hi>Haggar</hi> is an hypocrite, for he profeſſeth skill therein in one word. Foundat. p. 68.</note> tongue: but ſo it hath been read and underſtood till of late time.</p>
+            <p>Mr. <hi>Browne.</hi> What is the word in the Originall?</p>
+            <p>Mr. <hi>Porter.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> — it is an adverb, <hi>q. domesticatim,</hi> in every room of his houſe where he came.</p>
+            <p>Mr. <hi>Brown.</hi> But the word is elſewhere taken for the whole family or houſe, either in Scripture, or ſome Greek Authors and Lexicons.</p>
+            <pb n="11" facs="tcp:118681:9"/>
+            <p> Mr. <hi>Porter.</hi> On my credit the word is uſed no where elſe in the New Teſtament, but in this place.</p>
+            <p n="2">2. Of all men you have leaſt reaſon to flie to humane Authors from holy Scripture, ſince you have cryed ſo oft for Scripture, Scripture.</p>
+            <p>Mr. <hi>Browne.</hi> To the point, to the point: (thus when he was pincht he cryed oft)</p>
+            <p>Mr. <hi>Tallants.</hi> You have heard ſeverall Examples of Infant-Baptiſm, and what replies have been made. The pertinency of thoſe inſtances, and of the anſwers, is left to your judicious conſideration. Go on I pray you (Mr. <hi>Por<g ref="char:EOLhyphen"/>ter</hi>) to another head.</p>
+            <p n="3">3. Priviledges of Infants.</p>
+            <p n="1">1. They are Church members. Whence I argue thus, Church-members may be baptized; Infants of believing Parents are Church-members; therefore ſuch Infants may be baptized.</p>
+            <p>Mr. <hi>Browne.</hi> Where is it written that Infants are Church members? let us have Scripture firſt, what have we to do with Arguments?</p>
+            <p>Mr. <hi>Tallants.</hi> Have patience a while, and you ſhall have Scripture, Mr. <hi>Porter</hi> is coming to it.</p>
+            <p>Mr. <hi>Haggar.</hi> Infants are not Church members, be<g ref="char:EOLhyphen"/>cauſe they cannot do the offices of Church-members, as to belief, pray, admoniſh, <hi>&amp;c.</hi> Prove them to be viſible Church-members.</p>
+            <p>Mr. <hi>Porter.</hi> This is all one, as if Mr. <hi>Haggar</hi> ſhould deny Infants to have a rationall principle, becauſe they cannot put forth all the rationall acts of a growne man.</p>
+            <p n="2">2. They who are of the viſible body of Chriſt, are viſible Church-members (as an hand and foot are viſible members, becauſe they are of the viſible body) But Infants of believing Parents are of the viſible body of Chriſt; therefore—</p>
+            <p>Mr. <hi>Hrggar.</hi> Prove that Infants of believing Parents are of the viſible body of Chriſt.</p>
+            <pb n="12" facs="tcp:118681:10"/>
+            <p> Mr. <hi>Porter.</hi> They who have Chriſt to be their Savi<g ref="char:EOLhyphen"/>our, are of the viſible body of Chriſt; but Infants of believing Parents have Chriſt to be their Saviour; There<g ref="char:EOLhyphen"/>fore— <note place="margin">Foundat. p. 61. lin. 12.</note> The Minor Mr. <hi>Haggar</hi> acknowledgeth in his book forecited, That ſome Infants are ſaved by him (<hi>i. e.</hi> Chriſt) all will grant. And a little after, They (<hi>i. e.</hi> Infants) dying in their Infancy are ſaved by vertue of Chriſts death — And if he ſhould deny it (for he is off and on) Scripture ſaith expreſſely, <hi>Eph.</hi> 5. 23. That <hi>Chriſt is the Saviour of the body;</hi> and ſure that is a viſible body, where there is uſe of water and of the word, as <hi>v.</hi> 26. Now is Chriſt a Saviour of any, who is not of the viſible body?</p>
+            <p>
+               <note place="margin">At this the people laughed</note> Mr. <hi>Browne.</hi> The inviſible Church is larger then the viſible.</p>
+            <p>Mr. <hi>Porter.</hi> An abſurd expreſſion. It's well known and generally received, that the inviſible Church con<g ref="char:EOLhyphen"/>tains only the good; but the viſible both good and bad, <hi>Mat.</hi> 13.47, 48.</p>
+            <p>Mr. <hi>Tallant. Many be called</hi> (there is the viſible Church) <hi>but few are choſen</hi> (there is the inviſible) <hi>Mat.</hi> 20.16.</p>
+            <p>
+               <note place="margin">2. Priviledge.</note> Mr. <hi>Porter.</hi> They belong to the Covenant of Grace, and the Covenant of Grace to them. Whence I argue thus, They who belong to the Covenant of Grace may be baptized (for they to whom the thing ſignified be<g ref="char:EOLhyphen"/>longs, to them the initiall ſigne cannot be denied) but ſome Infants belong to the Covenant of Grace; therefore <note n="*" place="margin">Deut. 29.10, 11, 12, 15. which was a Covenant of grace: &amp; 30.6. with Rom. 10.6, 7, 8, 9.</note> ſome Infants may be baptized.</p>
+            <p>Mr. <hi>Haggar.</hi> I do not underſtand what is meant by the ſign and thing ſignified.</p>
+            <p>Mr. <hi>Browne.</hi> We have nothing to do with Arguments, you are to bring Scripture.</p>
+            <p>Mr. <hi>Porter.</hi> I have affirmed nothing yet, but what I have confirmed by Scripture.</p>
+            <p>Mr. <hi>Haggar.</hi> Where was it to be read in Scripture, that Infants are to be baptized? <note place="margin">Pure Socinia<g ref="char:EOLhyphen"/>niſm.</note> I deny any thing to be Scripture, but what is written in ſo many words and
+<pb n="13" facs="tcp:118681:10"/>ſyllables in Scripture, becauſe Scripture is that which is written, as the word ſignifies.</p>
+            <p>Mr. <hi>Porter.</hi> I have ſhewed you divers Scriptures, wherein (if you wipe your eyes) you may read that it is written, Some Infants are to be bap<g ref="char:EOLhyphen"/>tized.</p>
+            <p n="2">2. Scripture is either explicite or implicite; that is, either expreſſed or implied as <hi>Jam.</hi> 4.5 <note n="*" place="margin">Many things are ſaid to be written and read in Scri<g ref="char:EOLhyphen"/>pture, which are but imply<g ref="char:EOLhyphen"/>ed; as Mat. 26.24. Mar. 9.12, 13. Luk. 24.46, 47.</note> 
+               <hi>Do ye think that the Scripture ſaith in vain, The ſpirit that dwelleth in us luſteth to envie?</hi> The Apoſtle cals this Scripture, but where is this propoſition in ſo many terms or ſyllables written in Scripture?</p>
+            <p>Mr. <hi>Haggar.</hi> It's written there in that Text.</p>
+            <p>Mr. <hi>Porter.</hi> This is juſt like your anſwer to Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter,</hi> who alledgeth Chriſt proving the Reſurrection of the dead by conſequence, <hi>Luk.</hi> 20.35, 36, 37. You an<g ref="char:EOLhyphen"/>ſwer <note n="†" place="margin">Foundat. p. 47, 48.</note> That the dead are raiſed is written in <hi>Luke;</hi> a weak and ſhifting anſwer. Is the reſurrection expreſſely written in <hi>Exod.</hi> 3.6. or implicitely only, and ſo by con<g ref="char:EOLhyphen"/>ſequence? You your ſelf cite <note n="*" place="margin">Page. 20.</note> ſome of our own Poets (in alluſion to <hi>Act.</hi> 17.28.) <hi>For we are alſo his off-ſpring.</hi> Theſe words are to us Scripture now, but were they Scripture when the Apoſtle ſpake thoſe words, and you cited them out of <hi>Aratus?</hi> So Chriſt and <hi>James</hi> call that Scripture, which is there by evident conſequence, and not in expreſs words, as thoſe in <hi>Aratus.</hi> But to reaſſume my argument. They to whom the Covenant of Grace belongs may be baptized; But to ſome Infants the Co<g ref="char:EOLhyphen"/>venant of Grace doth belong, as may be proved, <hi>Act.</hi> 2. 38, 39. <hi>Be baptized, for the promiſe is to you and to your chil<g ref="char:EOLhyphen"/>dren</hi> —</p>
+            <p>Mr. <hi>Haggar.</hi> 
+               <note place="margin">Here Mr. <hi>Hag<g ref="char:EOLhyphen"/>gar</hi> made a large Expoſi<g ref="char:EOLhyphen"/>tion to darken the counſell of God by words without know<g ref="char:EOLhyphen"/>ledge. Job 38 2.</note> The queſtion was, <hi>Men and brethren what ſhall we do? verſ.</hi> 37.</p>
+            <p>The Apoſtle anſwers,
+<list>
+                  <item>1. Laying down the duty, <hi>verſ. 38. Repent and be baptized.</hi>
+                  </item>
+                  <item>2. The promiſe, <hi>And ye ſhall receive the gift of the holy Ghoſt.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="14" facs="tcp:118681:11"/>
+            <p> This is the promiſe made to them, and only to ſo many of them as the Lord ſhall call. Now Infants can<g ref="char:EOLhyphen"/>not repent, nor believe, both which are required to Baptiſm.</p>
+            <p>Mr. <hi>Porter.</hi> The promiſe is the Covenant <note n="*" place="margin">Act. 3.25.</note>, Gal. 3. often interchangeably are the one put for the other, be<g ref="char:EOLhyphen"/>cauſe the Covenant runs upon promiſes.</p>
+            <p n="2">2. Whatſoever is meant by the promiſe, ſurely the extraordinary gift of the holy Ghoſt cannot be meant (as you inſinuate) becauſe thoſe gifts do not per<g ref="char:EOLhyphen"/>tain to all whom the Lord ſhall call.</p>
+            <p n="3">3. <hi>Peters</hi> Sermon was very officacious on the hearts of the <hi>Jews</hi> his hearers, <hi>verſ. 37.</hi> So that it is true, they cryed out, <hi>What ſhall we do?</hi> Upon which <hi>Peter</hi> directs them to leave their Judaiſm, and to imbrace Chriſti<g ref="char:EOLhyphen"/>an Religion, and to be baptized. To incourage them thereunto, he tels them, <hi>the promiſe is to, them and their chil<g ref="char:EOLhyphen"/>dren</hi> — So that that expoſition which croſſeth <hi>Peters</hi> intention, is not to be admitted; But Mr. <hi>Haggars</hi> ex<g ref="char:EOLhyphen"/>poſition croſſeth <hi>Peters</hi> intention — Becauſe it is a diſcouragement from, and not an incouragement to, what <hi>Peter</hi> did exhort them unto. For they might ſay, we ſhall be loſers by the exchange, for as we are Jewer, we and our children are circumciſed (the Covenant and initiall ſigne thereof belong to us and ours) but if we turne Chriſtians, we indeed ſhall be baptized (as a ſigne of our being in Covenant) but not our children, what ſhall become of our poor little ones? The Apoſtle an<g ref="char:EOLhyphen"/>ſwers, <hi>The promiſe is to you and your children</hi> — The Cove<g ref="char:EOLhyphen"/>nant elſe is contracted by Chriſts coming, contrary to the whole tenor of Scripture.</p>
+            <p>
+               <note place="margin">Rom. 15.</note> Mr. <hi>Haggar.</hi> Sir, If the Apoſtle had written all this you have ſaid, it were true, but the Apoſtle ſaith, <hi>The promiſe is to them, and to as many of their children as God ſhould call.</hi>
+            </p>
+            <p>Mr. <hi>Porter.</hi> The promiſe is tendered juſt in the ſame tenour, as to <hi>Abraham,</hi> Gen. 17.7. <hi>I am thy God, and the God of thy ſeed.</hi> Theſe words, <hi>whom the Lord our God ſhall call,</hi>
+               <pb n="15" facs="tcp:118681:11"/>properly belong to the Gentiles, when the Goſpell is firſt preached to them. For theſe Jews were for the pre<g ref="char:EOLhyphen"/>ſent under the Call, ſo were not the Gentiles at that time. Therefore the firſt part of <hi>verſ. 39.</hi> is ſet down in the preſent tenſe, <hi>The promiſe I S;</hi> and the latter part in the future tenſe, <hi>Whom the Lord our God SHALL call.</hi> Now if this clauſe were to be referred to the firſt part, would it not have been a grand diſcouragement to the Jewes? for they might well ſay, we indeed are under the Call of God, but who knows whether ever our children ſhall be called?</p>
+            <p>Mr. <hi>Haggar.</hi> Children are not capable of being cal<g ref="char:EOLhyphen"/>led, becauſe they cannot hear, nor underſtand, nor can they believe. Yet thoſe words, <hi>Mark. 16.16. He that be<g ref="char:EOLhyphen"/>lieveth not ſhall be damned;</hi> are not to be underſtood of chil<g ref="char:EOLhyphen"/>dren: <note place="margin">2 Theſſ. 3.10.</note> No more then thoſe words, <hi>He that worketh not, ſhall not eat.</hi>
+            </p>
+            <p>Mr. <hi>Porter.</hi> Children are capable of an internall call by the Spirit (how elſe are they ſaved dying in infancy?) though not of an externall call.</p>
+            <p n="2">2. What though they cannot hear? the children of the Gentiles called, are no more to be excluded from Baptiſm, then the children of the Jews from circum<g ref="char:EOLhyphen"/>ciſion, who yet could not hear, underſtand or per<g ref="char:EOLhyphen"/>forme that condition, Gen. 17.1. — <hi>Walke be<g ref="char:EOLhyphen"/>fore me.</hi>
+            </p>
+            <p n="3">3. Your illuſtration of Childrens not working— added to <hi>Mark. 16.16.</hi> doth cut the throat <note n="*" place="margin">Mr. <hi>Higgar</hi> ſtarred at this word, ſaying, What a word is that? M. <hi>Por<g ref="char:EOLhyphen"/>ter</hi> ſaid, the meaning is, it did take away the life and ſtrength of his Argument.</note> of your anſwer. For if faith and repentance be not required to Salvation, then not to Baptiſm, a ſigne of Salva<g ref="char:EOLhyphen"/>tion. Beſides it is all one, as if you ſhould ſay, (as you have ſaid) Infants are not Church-mem<g ref="char:EOLhyphen"/>bers, becauſe they do not all the acts of Church-members.</p>
+            <pb n="16" facs="tcp:118681:12"/>
+            <p>
+               <note place="margin">3. <hi>Priviledge.</hi>
+               </note> Mr. <hi>Porter.</hi> They are Saints holy by Covenant. 1 <hi>Cor. 7. 14. Elſe are your children unclean, but now are they holy.</hi> Whence I argue thus: Saints may be baptized; ſome In<g ref="char:EOLhyphen"/>fants are Saints; Therefore ſome Infants may be bap<g ref="char:EOLhyphen"/>tized.</p>
+            <p>Mr. <hi>Haggar.</hi> They are not viſible Saints, not Saints by calling.</p>
+            <p>Mr. <hi>Porter.</hi> I have proved they are capable of an in<g ref="char:EOLhyphen"/>ternall call, and that they are viſible Church-members; Therefore they are Saints by calling, and viſible Saints. But <hi>Sir,</hi> Thoſe whom <hi>Paul</hi> cals and judges to be holy are viſible Saints; but he here cals and judges Infants to be holy; Therefore—</p>
+            <p>Mr. <hi>Haggar.</hi> By this text you may as well prove unbe<g ref="char:EOLhyphen"/>lievers to be holy; for he that is ſanctified is a Saint or holy, but the unbeliever is ſaid here to be ſanctified — Therefore legitimation is only here meant.</p>
+            <p>Mr. <hi>Porter.</hi> To be ſantified here, and to be holy, are two diſtinct phraſes. When the Apoſtle ſaith, <hi>The unbeliever is ſanctified,</hi> he addes, <hi>by the wife, by the busband.</hi> But when he ſaith, <hi>Children are holy,</hi> that is laid down ſimply, without any ſuch addition. There is an inhe<g ref="char:EOLhyphen"/>rent holyneſſe, of which certainly ſome Infants are par<g ref="char:EOLhyphen"/>takers; and a relative or federall holineſſe, of which all children of believing Parents are without doubt parta<g ref="char:EOLhyphen"/>kers. Now it's apparent, that legitimation is not meant. That holyneſſe is here meant, which is the proper and immediate reſult of faith in one of the Parents; but legitimation is not the proper and immediate reſult of faith; Therefore legitimation is not here meant.</p>
+            <p>Mr. <hi>Haggar.</hi> Prove that legitimation is not the re<g ref="char:EOLhyphen"/>ſult of faith. I ſay it is.</p>
+            <p>Mr. <hi>Porter.</hi> That which is common to believers and unbelievers is not the reſult of faith; but legitimation is common to believers and unbelievers— For there is a true and lawfull mariage among the Hethens, and
+<pb n="17" facs="tcp:118681:12"/>their children born in Wedlock were not baſtards but legitimate, yet are no where, nor in any propriety of ſpeech can be, called holy. Beſides, the word here is oppoſed to unclean <note n="*" place="margin">Iſa. 52.1. Hag. 2.13. The con<g ref="char:EOLhyphen"/>ſtant meaning of <hi>holy</hi> in Scri<g ref="char:EOLhyphen"/>pture, is 600 times taken for <hi>being ſepara<g ref="char:EOLhyphen"/>ted to an holy uſe.</hi> If I call Mr. <hi>Haggars</hi> children <hi>holy,</hi> would any man imagine that I called them legiti<g ref="char:EOLhyphen"/>mate not ba<g ref="char:EOLhyphen"/>ſtards?</note> 
+               <hi>i.e.</hi> ſuch who are unfit for Go<g ref="char:EOLhyphen"/>ſpell ordinances.</p>
+            <p>Mr. <hi>Browne.</hi> This holineſſe is the reſult of an unbe<g ref="char:EOLhyphen"/>liever.</p>
+            <p>Mr. <hi>Porter.</hi> You contradict the Apoſtle quite and clean, eſpecially in his ſcope; for when the Goſpell was firſt Preached among the Heathens, ſometimes the wife and not the hustand did embrace the Goſpell; and ſo con<g ref="char:EOLhyphen"/>trarily, the husband and not the wife. In proceſſe of time, the converted <hi>Corinthians</hi> ſent a caſe of conſcience to be reſolved (not whether their children were baſtards, they could reſolve that themſelves at home, but) whether they might conſcientiouſly cohabit with their unconverted yoke-fellows. The Apoſtle reſolves the caſe plainly, they might cohabit, <hi>verſ.</hi> 12, 13. And gives this reaſon, <hi>verſ.</hi> 14. <hi>For the unbelieving husband is ſanctified by (in or to) the wife) by the believing wife</hi> (as <hi>Beza</hi> reads it, and finds it ſo in ſome copies) &amp;c. which is more then lawfull <note n="†" place="margin">1 Tim. 4.5. A wicked man hath a lawfull uſe of the crea<g ref="char:EOLhyphen"/>ture, but not an holy uſe.</note>; which he confirmes by this, <hi>Elſe were your children unclean, but now they are holy.</hi> Is it not as clear as the ſun, that holy<g ref="char:EOLhyphen"/>neſſe here is the reſult of faith of one Parent? (For what is an unbeliever, but one that doth not embrace or profeſſe the Goſpell? and then what is a believer but the contrary?) The infidelity of one unbelieving Pa<g ref="char:EOLhyphen"/>rent rent cannot deveſt his children of Covenant holineſſe, if the other parent be believing. Only to reaſſume my argument, I pray you (good people) take notice, that it is granted by Mr. <hi>Haggar,</hi> 
+               <note place="margin">Here they were nonpluſt a<g ref="char:EOLhyphen"/>gain.</note> that Saints may be bap<g ref="char:EOLhyphen"/>tized, and it's proved by Scripture that Infants are Saints, and yet Mr. <hi>Haggar</hi> will not aſſent to the Concluſion here, as he denyed it elſewhere.</p>
+            <p>Mr. <hi>Tallant.</hi> The people have indured the heat of the day, and have ſtood long in the crowd, I am afraid
+<pb n="18" facs="tcp:118681:13"/>we ſhall be too injurious to them, therefore go on (if you think fit) to another Priviledge.</p>
+            <p>
+               <note place="margin">4. <hi>Priviledge.</hi>
+               </note> Mr. <hi>Porter.</hi> It's written, <hi>Act. 10.47. Can any man for<g ref="char:EOLhyphen"/>bid water, that theſe ſhould not be baptized, which have received the holy Ghoſt, as well as we?</hi> Whence I argue thus: They who receive the ſpirit of Chriſt may be baptized; but ſome Infants receive the Spirit of Chriſt: Therefore ſome In<g ref="char:EOLhyphen"/>fants may be baptized.</p>
+            <p>Mr. <hi>Haggar.</hi> You muſt put in, <hi>As well as we.</hi>
+            </p>
+            <p>Mr. <hi>Browne.</hi> What did Infants receive the Spirit of Chriſt as well as the Apoſtles?</p>
+            <p>Mr. <hi>Porter.</hi> What if I did ſay ſo? it would not help you, nor hurt me. You have acknowledged your igno<g ref="char:EOLhyphen"/>rance in the Originall, it's therefore to no purpoſe to tell you, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>s<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cut &amp; nos.</hi> Beza.</note> that the words may be read, <hi>even as we,</hi> and ſo the phraſe is rendred, <hi>Act. 15.8. (Even as he did to us.</hi>) And it cannot be denyed that ſome Infants receive the Spirit <hi>aeque,</hi> though not <hi>aequaliter;</hi> as well, though not ſo much: water in a ſpoon is water, as well as that in a barrell. Infants then may receive the Spirit as well for quality, though not for quantity, as the Apoſtles did. And ſo the Apoſtle himſelfe ex<g ref="char:EOLhyphen"/>pounds it, Chap. 11.17. <hi>Foraſmuch then as God gave them the like gift as he did to us</hi> — Marke, <note place="margin">1. Pet. 1.1. <hi>Like pretious faith with us.</hi>
+               </note> 
+               <hi>the like gift.</hi> Elſe if you will needs underſtand it of the meaſure, you will contradict your own practiſe for time paſt, and overthrow it for time to come. For you muſt never baptize any, unleſſe you are ſure they have the ſame meaſure of the Spirit. I ſhall therefore reaſſume my argument with that addition. They who receive the Spirit of Chriſt, as well as the Apoſtles, may be baptized; but ſome Infants receive the Spirit of Chriſt as well as the Apoſtles; Therefore ſome Infants may be baptized.</p>
+            <pb n="19" facs="tcp:118681:13"/>
+            <p> Mr. <hi>Haggar.</hi> Who are here to be baptized? <hi>verſ.</hi> 46. Theſe who ſpake with tongues, theſe who magnified God, theſe who heard the word, <hi>verſ.</hi> 44. Can any man hinder that theſe ſhould be bap<g ref="char:EOLhyphen"/>tized?</p>
+            <p>Mr. <hi>Porter.</hi> Doe you baptize none but ſuch as theſe? The emphaſis lies on theſe words, <hi>Which have re<g ref="char:EOLhyphen"/>ceived the holy Ghoſt.</hi>
+            </p>
+            <p>Mr. <hi>Haggar.</hi> I deny that Infants receive the Spirit of Chriſt as well as the Apoſtles.</p>
+            <p>Mr. <hi>Porter.</hi> They who receive the ſpirit of Regene<g ref="char:EOLhyphen"/>ration, receive the Spirit of Chriſt as well as the Apoſtles; but ſome Infants receive the ſpirit of Regeneration; Therefore ſome Infants receive the Spirit of Chriſt as well as the Apoſtles.</p>
+            <p>Mr. <hi>Haggar.</hi> By the Spirit is meant the gift of tongues, as appears <hi>verſ.</hi> 46. And children are not capa<g ref="char:EOLhyphen"/>ble of Regeneration, becauſe they are not capable of hearing the word, by which the children of God are begotten: Jam. 1.18. <hi>Of his own will begat he us with the word of truth.</hi>
+            </p>
+            <p>Mr. <hi>Porter.</hi> Admit miraculous gifts were meant, the Argument is not weakned but ſtrengthned; for if the gift of tongues entitle to Baptiſm, much more the gift of Regeneration. Beſides, thoſe miraculous gifts are common to Hypocrites and others, but Regeneration is proper to Gods elect.</p>
+            <p n="2">2. As for that in <hi>James,</hi> you may as well ex<g ref="char:EOLhyphen"/>clude children from eating, becauſe they cannot work, as children from Regeneration, becauſe they cannot hear the word, the uſuall inſtrument of Regenerati<g ref="char:EOLhyphen"/>on <note n="*" place="margin">1 Pet. 1.23.</note>. The Spirit of Chriſt doth that in Infants <hi>(ſaved)</hi> without the word, which he doth not uſually in <hi>adult,</hi> but by the word.</p>
+            <p n="3">3. It's a Paradoxe that Infants are not capable of the Spirit of Regeneration; for Rom. 8.9. <hi>If
+<pb n="20" facs="tcp:118681:14"/>any man have not the Spirit of Chriſt, hee is none of his.</hi>
+            </p>
+            <p>Mr. <hi>Haggar.</hi> Yea a Man, not a Childe.</p>
+            <p>Mr. <hi>Porter.</hi> The word <note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Aliquis.</note> ſignifies any one, Man, Woman, or Childe, as Joh. 3.3. <hi>Except a man</hi> (the ſame word) <hi>be born again, he cannot ſee the Kingdome of God.</hi> And verſ. 5. <hi>Except a man</hi> (the ſame word) <hi>be born of water and the Spirit, he cannot enter into the kingdom of God.</hi>
+            </p>
+            <p>Mr. <hi>Browne.</hi> Thoſe in Rom. 8.9. doe not reach Infants, for the Apoſtle did not write his Epiſtle to Infants.</p>
+            <p>Mr. <hi>Porter.</hi> A weak reaſon. Though the Apoſtle did not write <hi>to</hi> Infants, <note place="margin">Rom. 9.8., 11, 27.</note> yet he did write <hi>of</hi> In<g ref="char:EOLhyphen"/>fants.</p>
+            <p>Mr. <hi>Haggar.</hi> A weak reaſon Sir? you your ſelf have bewrayed your weakneſſe in proving nothing. Good people, Mr. <hi>Porter</hi> hath proved nothing — only he hath uſed Tropes and Figures.</p>
+            <p>Mr. <hi>Porter.</hi> You Mr. <hi>Haggar</hi> are a party, and therefore not fit to be judge. If you had not a brow of braſſe, you durſt not ſay, <hi>I have proved nothing.</hi> Whether I have proved ſomething or nothing, I leave it to the judicious hearers, before whoſe tribunall I am content to ſtand or fall.</p>
+            <p>Mr. <hi>Browne.</hi> You have uſed but Sophiſtry.</p>
+            <p>Mr. <hi>Porter.</hi> I leave that to your ſelf, who are moſt verſt in it. <note place="margin">Mr. <hi>Browne</hi> was here mute.</note> I pray you ſhew me the Sophiſtry I have uſed in any Argument or Scripture, and convince me be<g ref="char:EOLhyphen"/>fore this great Congregation.</p>
+            <p>Mr. <hi>Tallants.</hi> Shew it, ſhew it, if you can, where doth the Sophiſtry lie Sir? You have heard what Mr. <hi>Porter</hi> hath brought for the prooſe of Infant<g ref="char:EOLhyphen"/>Baptiſme. If you can prove that Infants ought not to be baptized, produce your Scriptures, and you ſhall be heard.</p>
+            <pb n="21" facs="tcp:118681:14"/>
+            <p> Mr. <hi>Haggar.</hi> It's hard to prove Negatives, we came not to prove a Negative.</p>
+            <p>Mr. <hi>Tallants.</hi> I think it fit therefore to break off this diſpute, and to conclude with Prayer <note n="*" place="margin">Which Mr. <hi>Tallant</hi> did, but it was obſerved that though Mr. <hi>Haggar</hi> kept off his hat, yet Mr. <hi>Brown</hi> put on his, and kept it on his head all the while Mr. <hi>Tallants</hi> prayed.</note> eſpe<g ref="char:EOLhyphen"/>cially conſidering that the Congregation or moſt in the Congregation have ſtood in the croud for the ſpace of five hours.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
